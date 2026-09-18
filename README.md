@@ -1,3 +1,8 @@
+fontend -> https://pokedexworking.vercel.app/
+
+backed -> https://pokedex-g8kg.onrender.com
+
+
 ![alt text](image-3.png)
 
 ![alt text](image-2.png)
